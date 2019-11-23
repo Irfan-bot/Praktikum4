@@ -62,11 +62,16 @@ print("| {no:2d} | {nama:12s} | {nim:9s} | {tugas:5d} | {uts:5d} | {uas:5d} | {a
 print("==================================================================")
 
 
-#Screenshot Input
+# Screenshot Input
 ![Screenshot (49)](https://user-images.githubusercontent.com/56944673/69475603-fb869700-0d83-11ea-9361-3236e0078bfc.png)
 
 
-#Screenshot Output
+# Screenshot Output
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/56944673/69475628-35f03400-0d84-11ea-823f-cb1b0438525d.png)
+
+
+# Flowchart
+
+![Flowchart](https://user-images.githubusercontent.com/56944673/69481718-7671a100-0dc8-11ea-9044-b5656c7b3dce.png)
 
